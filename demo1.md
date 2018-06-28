@@ -278,9 +278,9 @@
 
     最终显示效果如下所示：
 
-    ![程序狗][1]
+    ![门][1]
 
-    [1]: ./images/coding_dog.jpg "程序狗"
+    [1]: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1530160526055&di=c9be9c5499b507e7eb6fc4dc5781a51c&imgtype=0&src=http%3A%2F%2Fg.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2Fb8014a90f603738d1f357dacbf1bb051f919ecc5.jpg "门"
 
 10. 反斜杠\
 
