@@ -316,4 +316,8 @@
     
     ~~添加删除线~~
 
+13. Table
+
+    markdown中table的使用请查看[这里](./table.md "markdown table")
+
 更新中......
