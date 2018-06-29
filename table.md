@@ -61,3 +61,23 @@
 | jiayizhen |  26  |   male  |
 |   macco   |  26  |   male  |
 |    lily   |  26  |  female |
+
+### 插入其他内容
+
+markdown的table中也允许包含其他的语法标记，例如斜体、粗体、链接等等，具体书写方法如下所示：
+
+```
+|     name    |   type   |                link                  |
+|     :--:    |   :--:   |                :--:                  |
+|   __百度__   |  search  |    [百度](https://www.baidu.com)      |
+|   *Google*  |  search  |    [Google](https://www.google.com)  |
+|    ZEALER   |   tech   |    [ZEALER](http://www.zealer.com)   |
+```
+
+最终的显示效果如下所示：
+
+|     name    |   type   |                link                  |
+|     :--:    |   :--:   |                :--:                  |
+|   __百度__   |  search  |    [百度](https://www.baidu.com)      |
+|   *Google*  |  search  |    [Google](https://www.google.com)  |
+|    ZEALER   |   tech   |    [ZEALER](http://www.zealer.com)   |
