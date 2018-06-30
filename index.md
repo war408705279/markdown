@@ -324,4 +324,8 @@
 
     markdown中tasklist的使用请查看[TaskList](./tasklist.md "markdown tasklist")
 
+15. jump
+
+    如果你使用markdown写了一篇很长的文章，这篇文章拥有复杂的结构目录。如果没有章节索引的跳转功能，那么阅读这篇文章无疑是很费劲的。markdown中就提供了这种跳转功能，具体是用请查看[jump](./jump.md "markdown jump")
+
 更新中......
