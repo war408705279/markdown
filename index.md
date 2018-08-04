@@ -348,4 +348,16 @@
 
     如果你使用markdown写了一篇很长的文章，这篇文章拥有复杂的结构目录。如果没有章节索引的跳转功能，那么阅读这篇文章无疑是很费劲的。markdown中就提供了这种跳转功能，具体是用请查看[jump](./jump.md "markdown jump")
 
+16. 下划线
+
+    markdown中并没有加下划线的语法，原因是会和链接的默认样式产生混淆，但是我们可以使用HTML + CSS样式为文字加下划线，示例代码如下所示：
+
+    ```html
+    <span style="border-bottom: 1px dashed yellow;">需要加下划线的文字</span>
+    ```
+    最终效果如下所示：
+
+    <span style="border-bottom: 1px dashed yellow;">需要加下划线的文字</span>
+
+
 更新中......
